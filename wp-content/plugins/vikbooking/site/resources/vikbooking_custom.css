@@ -1,0 +1,36 @@
+/* This CSS file will be loaded at last. Any CSS customization should be placed here */
+
+#primary .entry-content {
+float: none !important;
+width: 100% !important;
+
+
+}
+.room_item {
+background: #f6f6f6;
+box-shadow: 0 1px 10px rgb(0 0 0 / 10%);
+}
+.vik-dots-slider-inner .vik-dots-slider-slide{
+background-color: #f6f6f6;
+}
+h4.vbrowcname {
+font-family: 'Poppins' !important;
+}
+.room_resultdiffusage .vblistroomblock {
+border-right: 2px solid #ddd;
+}
+.vblistroomblock{
+border-right: 2px solid #ddd;
+}
+.vbo-showprc-room-head{
+background: #ddd;
+}
+.vbo-showprc-room-block,.vbo-showprc-optionstable .vbo-showprc-option-entry,.vbo-showprc-pricetable .vbo-showprc-price-entry{
+box-shadow: 0 1px 10px rgb(0 0 0 / 10%);
+}
+.vbo-oconfirm-roomname.vbo-pref-color-text,vbo-oconfirm-priceinfo {
+font-family: 'poppins';
+}
+.vbo-showprc-room-block {
+background-color: #ddd;
+}
